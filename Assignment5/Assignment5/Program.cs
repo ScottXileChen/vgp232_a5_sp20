@@ -40,7 +40,7 @@ namespace Assignment5
             // show the inventory.
             Console.WriteLine();
             inventory.ShowInventory();
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
